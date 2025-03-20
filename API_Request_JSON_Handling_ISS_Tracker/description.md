@@ -1,4 +1,4 @@
-# Project Description
+# ISS Location and Sunrise Information
 
 This project uses the [ISS Location API](http://open-notify.org/Open-Notify-API/ISS-Location-Now/) to fetch the current location of the **International Space Station (ISS)**, including the latitude, longitude, and a Unix timestamp for when the location was valid.
 
