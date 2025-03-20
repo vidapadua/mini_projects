@@ -22,7 +22,7 @@ These projects are a reflection of my ability to apply theoretical knowledge in 
 ---
 ## Documentation
 
-Each project will have its own documentation and therefor will not be represented here. 
+Each project will have its own documentation. 
 
 ---
 
