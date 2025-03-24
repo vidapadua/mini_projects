@@ -9,6 +9,9 @@ This project uses the [Kanye Rest API](https://kanye.rest) to fetch a random Kan
 #### API Endpoint:
 - **URL**: [Quote JSON File](https://api.kanye.rest)
 
+#### GUI Screenshot:
+![img.png](img.png)
+
 ## Modules/Libraries
 
 - `requests`: Used for making HTTP requests to fetch data from the API.

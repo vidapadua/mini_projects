@@ -8,6 +8,9 @@ This project uses the [Trivia API](https://opentdb.com/api_config.php) to fetch 
 #### API Endpoint:
 - **URL**: [Trivia API JSON File](https://opentdb.com/api.php?amount=10&type=boolean)
 
+#### GUI Screenshot:
+![img.png](images/img.png)
+
 ## Modules/Libraries
 
 - `requests`: Used for making HTTP requests to fetch data from the API.

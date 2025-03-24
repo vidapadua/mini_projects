@@ -20,9 +20,9 @@ def bring_umbrella(param,city_name):
         if int(condition_code) < 700:
             will_rain = True
 
-    print(f"In {city_name}:")
+    print(f"\nIn {city_name}:")
     if will_rain:
-        print("Bring an umbrella today.\n")
+        print("Bring an umbrella today.")
         print("SMS reminder sent to verified user.")
         client = Client(get_user_account_sid(),get_user_auth_token())
         message = client.messages.create(
@@ -33,7 +33,7 @@ def bring_umbrella(param,city_name):
         # print(f"SMS sent: {message.sid}")
 
     else:
-        print("It will not rain today according to the forecast.\n")
+        print("It will not rain today according to the forecast.")
         print("No SMS reminder message sent.")
 
 
